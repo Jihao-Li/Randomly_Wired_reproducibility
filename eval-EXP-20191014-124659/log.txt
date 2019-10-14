@@ -1,0 +1,12 @@
+2019-10-14 12:46:59,244 gpu device = 0, 1, 2, 3
+2019-10-14 12:46:59,244 small regime or regular regime = True
+2019-10-14 12:46:59,244 args = Namespace(base_channels=78, batch_size=640, data='/dataset/extract_ILSVRC2012', gpu='0, 1, 2, 3', graph_txt='ws_4_075_conv', model_path='./train-EXP-20191008-005642/model_top1.pt', output_channels=1280, parallel=True, regime=True, report_freq=20, save='eval-EXP-20191014-124659', seed=5, train_flag=False)
+2019-10-14 12:47:02,161 param size = 5.466183MB
+2019-10-14 12:47:10,320 FLOPs = 508.373376GB
+2019-10-14 12:47:22,751 valid 000 8.774699e-01 82.187500 94.218750 0.001602
+2019-10-14 12:48:02,506 valid 020 1.102288e+00 75.944940 93.102679 0.000416
+2019-10-14 12:48:44,453 valid 040 1.214474e+00 73.193598 91.612043 0.000392
+2019-10-14 12:49:27,387 valid 060 1.321789e+00 71.006660 89.948770 0.000381
+2019-10-14 12:50:00,174 valid_acc 70.036000
+2019-10-14 12:50:00,176 valid_obj 1.362769
+2019-10-14 12:50:00,176 valid_speed_per_image 0.000386
